@@ -11,7 +11,7 @@ importers:
     dependencies:
       '@c7/ledger':
         specifier: github:C7-Digital/c7_ledger#v3.3.0-snapshot.20250507.0
-        version: https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/34682044bb01ebe4a0b8c7b542d3f8a2cfc40da5(ws@8.18.3)
+        version: https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/51f2fb0bd1173b6980d4bb76d14c2723cb86b380(ws@8.18.3)
     devDependencies:
       '@types/react':
         specifier: ^18.3.12
@@ -25,8 +25,8 @@ importers:
 
 packages:
 
-  '@c7/ledger@https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/34682044bb01ebe4a0b8c7b542d3f8a2cfc40da5':
-    resolution: {tarball: https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/34682044bb01ebe4a0b8c7b542d3f8a2cfc40da5}
+  '@c7/ledger@https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/51f2fb0bd1173b6980d4bb76d14c2723cb86b380':
+    resolution: {tarball: https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/51f2fb0bd1173b6980d4bb76d14c2723cb86b380}
     version: 3.3.0-snapshot.20250507.0
     engines: {node: '>=18.0.0', pnpm: '>=8.0.0'}
     hasBin: true
@@ -132,7 +132,7 @@ packages:
 
 snapshots:
 
-  '@c7/ledger@https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/34682044bb01ebe4a0b8c7b542d3f8a2cfc40da5(ws@8.18.3)':
+  '@c7/ledger@https://codeload.github.com/C7-Digital/c7_ledger/tar.gz/51f2fb0bd1173b6980d4bb76d14c2723cb86b380(ws@8.18.3)':
     dependencies:
       '@daml/types': 3.3.0-snapshot.20250502.13767.0.v2fc6c7e2
       ajv: 6.12.6
