@@ -11,6 +11,7 @@
     "build": "tsc",
     "dev": "tsc --watch",
     "clean": "rm -rf dist",
+    "prepare": "tsc",
     "prepublishOnly": "pnpm run clean && pnpm run build"
   },
   "keywords": [
