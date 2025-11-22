@@ -1,3 +1,7 @@
+# Deprecated
+
+Functionality moved to [c7_ledger](https://github.com/C7-Digital/c7_ledger)
+
 # @c7/react
 
 React hooks for Daml ledger integration using Canton JSON API v2
